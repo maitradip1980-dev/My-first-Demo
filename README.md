@@ -1,3 +1,4 @@
 # My-first-Demo
-This is my first Repository
-Author - Dip Maitra
+This is my first Repository.
+<br>
+Author - Dip Maitra.
